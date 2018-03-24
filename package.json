@@ -1,5 +1,7 @@
 {
   "name": "pokedex-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-tabs": "^2.2.1"
+  }
 }
